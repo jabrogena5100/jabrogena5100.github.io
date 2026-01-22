@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://www.modalai.com/cdn/shop/files/modalai-inc-drone-px4-autonomy-developer-kit-43777518207280_2000x.png
+image: img/modalai-inc-drone-px4-autonomy-developer-kit-43777518207280_2000x.jpg
 title: "Drone Swarm Investigation"
 date: 2025
 published: true
