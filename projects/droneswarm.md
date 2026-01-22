@@ -11,13 +11,13 @@ labels:
 summary: "An autonomous drone swarm that collects environmental data, processes it collaboratively, and executes real-time response actions."
 ---
 
-<img class="img-fluid" src="../projects/firesimulation.png">
+<img class="img-fluid" src=".../img/firesimulation.png">
 
 Drone security is versatile because multiple drones can work together to cover large areas more efficiently. Our team and I, Hoverlogic, simulated a team of drones that shared what each one detected and automatically spread out to monitor a wildfire simulation. Using an ArduPilot-based system, we relied on a shared gossip bus that gives input to the other drones so they can be assigned their own roles. The rules that we implemented are random walk and assigned patterns. 
 
 The following Code represents a snapshot of the wildfire image shown above: 
 
-'''
+```
 def fire_snapshot(self, t_now: float) -> Tuple[int,int,float,float]:
     burn = 0
     burnt = 0
@@ -34,8 +34,6 @@ def fire_snapshot(self, t_now: float) -> Tuple[int,int,float,float]:
     detected = self.fire_detections()
     self.fire_ts.append((t_now, burn, burnt, burn_frac, burnt_frac, detected))
     return burn, burnt, burn_frac, burnt_frac, detected
-
-
-'''
+```
 
 
