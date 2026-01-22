@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/PICO_W_HERO_TRANSPARENT__26247.jpg
 title: "Arch Linux MP3 Controller"
-date: 2024
+date: 2025
 published: true
 labels:
   - Python
