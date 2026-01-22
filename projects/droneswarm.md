@@ -11,7 +11,7 @@ labels:
 summary: "An autonomous drone swarm that collects environmental data, processes it collaboratively, and executes real-time response actions."
 ---
 
-<img class="img-fluid" src=".../img/firesimulation.png">
+<img class="img-fluid" src="../img/firesimulation.png">
 
 Drone security is versatile because multiple drones can work together to cover large areas more efficiently. Our team and I, Hoverlogic, simulated a team of drones that shared what each one detected and automatically spread out to monitor a wildfire simulation. Using an ArduPilot-based system, we relied on a shared gossip bus that gives input to the other drones so they can be assigned their own roles. The rules that we implemented are random walk and assigned patterns. 
 
