@@ -4,14 +4,14 @@
     "label": "Student",
     "picture": "https://github.com/jabrogena5100.png",
     "phone": "808-277-2113",
-    "email": "joshua.abrogena@gmail.edu",
+    "email": "joshua.abrogena@gmail.com",
     "website": "https://jabrogena5100.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering for the College of Engineering at the University of Hawaii. I expect to graduate in Fall 2026.",
+    "summary": "I am pursuing a B.S. in Computer Engineering at the University of Hawaii and expect to graduate in Fall 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jabrogena5100", "url": "https://github.com/jabrogena5100" },
-      { "network": "linkedin", "username": "joshua-abrogena-75757a3a6", "url": "http://linkedin.com/in/joshua-abrogena-75757a3a6" },
-      { "network": "instagram", "username": "short_joshh", "url": "http://instagram.com/short_joshh" }
+      { "network": "linkedin", "username": "joshua-abrogena-75757a3a6", "url": "https://linkedin.com/in/joshua-abrogena-75757a3a6" },
+      { "network": "instagram", "username": "short_joshh", "url": "https://instagram.com/short_joshh" }
     ]
   },
   "interests": [
@@ -22,47 +22,43 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript"]
+      "keywords": ["C", "C++", "Java", "JavaScript"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "VSCode", "IntelliJ", "Ubuntu", "Git/GitHub"]
+      "keywords": ["VSCode", "IntelliJ", "Ubuntu", "Git/GitHub"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Fall, 2026)",
+      "area": "Computer Engineering",
       "studyType": "B.S.",
       "startDate": "2023-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "endDate": "2026-12-01",
+      "courses": []
     }
   ],
   "work": [
     {
-      "company": "Chik Fil-A",
+      "company": "Chick-fil-A",
       "position": "Server",
       "website": "",
       "startDate": "2023-08-01",
       "endDate": "2023-12-04",
-      "summary": "Mainly a customer-service job, nothing technical",
-      "highlights": [
-      ]
+      "summary": "Provided customer service in a fast-paced team environment, strengthening communication and multitasking skills.",
+      "highlights": []
     }
   ],
   "awards": [
     {
-      "title": "Best in Math award (8th Grade)",
+      "title": "Best in Math Award",
       "date": "2018",
       "awarder": "Pearl Highlands Middle School",
-      "summary": "Each academy sought who they thought had the best grade in math class"
+      "summary": "Recognized for highest performance in mathematics within the academy."
     }
   ],
   "references": [
-    {
-      "name": "Available upon request"
-    }
+    { "name": "Available upon request" }
   ]
 }
