@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: https://www.modalai.com/cdn/shop/files/modalai-inc-drone-px4-autonomy-developer-kit-43777518207280_2000x.png
-title: "Drone Swarm Observation"
+title: "Drone Swarm Investigation"
 date: 2025
 published: true
 labels:
@@ -11,49 +11,31 @@ labels:
 summary: "An autonomous drone swarm that collects environmental data, processes it collaboratively, and executes real-time response actions."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../projects/firesimulation.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Drone security is versatile because multiple drones can work together to cover large areas more efficiently. Our team and I, Hoverlogic, simulated a team of drones that shared what each one detected and automatically spread out to monitor a wildfire simulation. Using an ArduPilot-based system, we relied on a shared gossip bus that gives input to the other drones so they can be assigned their own roles. The rules that we implemented are random walk and assigned patterns. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+The following Code represents a snapshot of the wildfire image shown above: 
 
-<hr>
+'''
+def fire_snapshot(self, t_now: float) -> Tuple[int,int,float,float]:
+    burn = 0
+    burnt = 0
+    total = self.N * self.N
+    for i in range(self.N):
+        for j in range(self.N):
+            s = self.fire_state[i][j]
+            if s == 1:
+              burn += 1
+            elif s == 2:
+              burnt += 1
+    burn_frac = burn / total
+    burnt_frac = burnt / total
+    detected = self.fire_detections()
+    self.fire_ts.append((t_now, burn, burnt, burn_frac, burnt_frac, detected))
+    return burn, burnt, burn_frac, burnt_frac, detected
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+'''
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
 
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
