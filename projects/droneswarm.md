@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/PICO_W_HERO_TRANSPARENT__26247.jpg
+image: img/modalai-inc-drone-px4-autonomy-developer-kit-43777518207280_2000x.jpg
 title: "Drone Swarm Investigation"
 date: 2025
 published: true
