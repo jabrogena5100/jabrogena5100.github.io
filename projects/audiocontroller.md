@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/audiocontroller.png
+image: img/PICO_W_HERO_TRANSPARENT__26247.jpg
 title: "Arch Linux MP3 Controller"
 date: 2024
 published: true
