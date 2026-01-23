@@ -11,7 +11,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/TypescriptImg.png">
 
-## Typescript is better than Javascript, to say the least
+**Typescript is better than Javascript, to say the least**
 
 In the grand scheme of things, I think Typescript is a great programming language that outmatches its sister Javascript. It's static-based typing which means types such as strings, boolean, number makes the code-base more stable. It also runs in compile time and not in run-time, which means there will be more robustness. Because it's static-typing, it manages large amounts of complex data that can serve programs that keep on expanding. 
 
