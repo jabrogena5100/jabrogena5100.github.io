@@ -10,7 +10,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-**Starting with the iPad**
+## Starting with the iPad
 
 As one of the first Gen Z to ever own an iPad, I can recall riding my mini-scooter in the front yard of my dad's porch. One day, little me was handed this device and so I played each day on it. Sometimes I even wondered how something portable could be so fun. Sooner or later, I decided to study Computer Engineering because I wanted to learn how devices are built and operated. As long as it had a screen and adjusts according to how you wanted it, throughout my childhood, the computer has stuck with me ever since. In school, I was moderate at math so I put two and two together and said that my job should be with computers. 
 
