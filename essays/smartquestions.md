@@ -12,7 +12,7 @@ labels:
 
 ## Eric Raymond's View of Questions
 
-In his article, [How to Ask Smart Questions](https://www.catb.org/esr/faqs/smart-questions.html), Eric Raymond goes in detail about the effects of asking questions, both smart and dumb, within hacker community forums. He explains that by asking smart questions, the askee receives more quality and quantity than an askee who asks non-smarter questions. For example, an askee who portrays object-deviation, in his/her question, is responded politely by a hacker (or hackers). 
+In his article, [How to Ask Smart Questions](http://catb.org/esr/faqs/smart-questions.html), Eric Raymond goes in detail about the effects of asking questions, both smart and dumb, within hacker community forums. He explains that by asking smart questions, the askee receives more quality and quantity than an askee who asks non-smarter questions. For example, an askee who portrays object-deviation, in his/her question, is responded politely by a hacker (or hackers). 
 
 He explains that users of the forum who asks smart questions were more likely to use more techincal terms, give more specifics, and proper letter cases. Compared to those who asked dumber questions, who would use upper case characters or 'grovel', these users were more likely to receive better answers from hackers. To see if this true or not, I searched through Stack Overflow to find a smart question as well as a dumb question and find out the effects. 
 
