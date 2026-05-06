@@ -8,20 +8,23 @@
     "website": "https://jabrogena5100.github.io",
     "summary": "I am pursuing a B.S. in Computer Engineering at the University of Hawaii and expect to graduate in Fall 2026.",
     "profiles": [
-      { "network": "github", "username": "jabrogena5100", "url": "https://github.com/jabrogena5100" },
-      { "network": "linkedin", "username": "joshua-abrogena-75757a3a6", "url": "https://linkedin.com/in/joshua-abrogena-75757a3a6" },
-      { "network": "instagram", "username": "short_joshh", "url": "https://instagram.com/short_joshh" }
+      {
+        "network": "github",
+        "username": "jabrogena5100",
+        "url": "https://github.com/jabrogena5100"
+      },
+      {
+        "network": "linkedin",
+        "username": "joshua-abrogena-75757a3a6",
+        "url": "https://linkedin.com/in/joshua-abrogena-75757a3a6"
+      }
     ]
   },
-  "interests": [
-    { "name": "Web Development" },
-    { "name": "Enterprise" },
-    { "name": "Systems" }
-  ],
+  "interest": [{ "name": "Web Development" }],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": ["C", "C++", "Java", "JavaScript"]
+      "keywords": ["C++", "Java", "Python", "Javascript"]
     },
     {
       "name": "Toolsets/OS",
@@ -34,30 +37,38 @@
       "area": "Computer Engineering",
       "studyType": "B.S.",
       "startDate": "2023-09-01",
-      "endDate": "2026-12-01",
+      "endDate": "2026-12-20",
       "courses": []
     }
   ],
-  "work": [
+  "projects": [
     {
-      "company": "Chick-fil-A",
-      "position": "Server",
+      "company": "Arduino Drone Pilot Project",
+      "position": "",
       "website": "",
-      "startDate": "2023-08-01",
-      "endDate": "2023-12-04",
-      "summary": "Provided customer service in a fast-paced team environment, strengthening communication and multitasking skills.",
+      "startDate": "2026",
+      "endDate": "",
+      "summary": "Built a Wildfire Simulation using .yaml files to control drone movements. Right now, I'm trying to implement a neural network to find the best possible paths to move over fire regions",
+      "highlights": []
+    },
+    {
+      "company": "GoLang Project",
+      "position": "",
+      "website": "",
+      "startDate": "2026",
+      "endDate": "",
+      "summary": "Used GoLang to make API requests using GoLang",
+      "highlights": []
+    },
+    {
+      "company": "Dashly",
+      "position": "",
+      "website": "",
+      "startDate": "2026",
+      "endDate": "",
+      "summary": "Built a landing page using React components from external libraries such as Shadcn",
       "highlights": []
     }
   ],
-  "awards": [
-    {
-      "title": "Best in Math Award",
-      "date": "2018-05-10",
-      "awarder": "Pearl Highlands Middle School",
-      "summary": "Recognized for highest performance in mathematics within the academy."
-    }
-  ],
-  "references": [
-    { "name": "Available upon request" }
-  ]
+  "references": [{ "name": "Available upon request" }]
 }
