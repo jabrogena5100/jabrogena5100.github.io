@@ -3,17 +3,19 @@ layout: project
 type: project
 image: img/modalai-inc-drone-px4-autonomy-developer-kit-43777518207280_2000x.jpg
 title: "Drone Swarm Investigation"
-date: 2025
+date: 2026
 published: true
 labels:
-  - Ubuntu
   - Python
+  - Ubuntu
 summary: "An autonomous drone swarm that collects environmental data, processes it collaboratively, and executes real-time response actions."
 ---
 
 <img class="img-fluid" src="../img/firesimulation.png">
 
-Drone security is versatile because multiple drones can work together to cover large areas more efficiently. Our team and I, Hoverlogic, simulated a team of drones that shared what each one detected and automatically spread out to monitor a wildfire simulation. Using an ArduPilot-based system, we relied on a shared gossip bus that gives input to the other drones so they can be assigned their own roles. The rules that we implemented are random walk and assigned patterns. 
+Drone security is versatile because multiple drones can work together to cover large areas more efficiently. Our team and I, Hoverlogic, simulated a team of drones that shared what each one detected and automatically spread out to monitor a wildfire simulation. Using an ArduPilot-based system, we relied on a shared gossip bus that gives input to the other drones so they can be assigned their own roles. The rules that we implemented are random walk and assigned patterns. This was designed to support future reinforcement learning-based path optimization for adaptive coverage efficiency.
+
+
 
 The following Code represents a snapshot of the wildfire image shown above: 
 
