@@ -20,7 +20,7 @@
       }
     ]
   },
-  "interest": [{ "name": "Web Development" }],
+  "interest": [{ "name": "Web Development" }, { "name": "Software Development" }],
   "skills": [
     {
       "name": "Languages and Frameworks",
