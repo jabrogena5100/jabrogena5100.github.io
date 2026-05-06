@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: img/PICO_W_HERO_TRANSPARENT__26247.jpg
-title: "Arch Linux MP3 Controller"
-date: 2025
+image: img/Go-Logo.png
+title: "GoLang Project"
+date: 2026
 published: true
 labels:
-  - Python
-  - Linux
-summary: "A personal project involving OLED display and Raspberry Pico Pi W"
+  - GoLang
+summary: "A personal project dealing with API requests using GoLang"
 ---
 
-<img class="img-fluid" src="../img/linux.png">
+# Golang API Project
 
-This is a self-made project where I used Thonny, Arch Linux, and hardware to build a simple MP3 player. The skills I improved in this project were micropython using Flask, client-server, as well as simple embedded systems. The downloaded MP3s were shared through a folder with Arch Linux to play the songs with the push of a button as shown on the image above.  
+Developed a RESTful API using Go, implementing structured endpoints to handle data operations and support frontend integration. Implemented structured logging to improve observability and debugging, enabling easier tracking of request flow and system behavior. Tested and validated API endpoints using Postman, ensuring reliability and correctness of request/response handling.
+Architected the backend with scalability and maintainability in mind, separating concerns between routing, handlers, and database access layers.
