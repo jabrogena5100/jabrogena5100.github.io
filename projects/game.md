@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Go-Logo.png
+image: img/favicon.ico
 title: "Dashly"
 date: 2026
 published: true
