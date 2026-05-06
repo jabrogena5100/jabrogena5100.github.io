@@ -111,13 +111,13 @@ layout: home
     </div>
     {% endif %}
 
-    {% if site.data.bio.work %}
+    {% if site.data.bio.projects %}
     <div class="row pt-4 align-items-start">
       <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">Work</h1>
+        <h1 class="display-6 text-start m-0">Projects</h1>
       </div>
       <div class="col-lg-9">
-        {% for entry in site.data.bio.work %}
+        {% for entry in site.data.bio.projects %}
           <div class="row mb-3">
             <div class="col-9">
               <p class="mb-0"><b>{{ entry.position }}, {{ entry.company }}</b></p>
