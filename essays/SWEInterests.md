@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Path to becoming technical"
 # All dates must be YYYY-MM-DD format!
-date: 2026-01-22
+date: 2026-06-04
 published: true
 labels:
 ---
