@@ -9,7 +9,7 @@ labels:
       - ESLint
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="[../img/TypescriptImg.png](https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg)">
+<img width="200px" class="rounded float-start pe-4" src="[../img/1280px-ESLint_logo.png">
 
 ## Why You Should Use ESSSLint
 **What is Coding Standard**
