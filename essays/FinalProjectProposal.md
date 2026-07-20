@@ -10,7 +10,7 @@ labels:
       - NextJs
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/TypescriptImg.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/Gymmie.png">
 
 ## Find a gym buddy near you
 ** Overview **
