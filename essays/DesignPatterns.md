@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions Matter"
+title: "Design Patterns through Legos"
 # All dates must be YYYY-MM-DD format!
 date: 2026-07-30
 published: true
 labels:
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/stackoverflow_icon_130823.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/Lego.png">
 
 # Design Patterns Through the Lens of LEGO
 
