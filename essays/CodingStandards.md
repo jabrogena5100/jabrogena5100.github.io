@@ -6,13 +6,14 @@ title: "Why You Should Use ESSSLint"
 date: 2026-06-22
 published: true
 labels:
-      - ESLint
+  - ESLint
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/1280px-ESLint_logo.png">
 
 ## Why You Should Use ESSSLint
-**What is Coding Standard**
+
+**What are Coding Standards**
 
 When talking about "Coding Standards," one may think about redundant rules that you would only read from a handbook. However, coding standards are an important practice that every software engineer should develop throughout their career. Coding standards are not only about small details such as spacing, indentation, or where brackets are placed. They are about creating consistency, readability, and organization within a codebase.
 
@@ -24,7 +25,7 @@ How does "Coding Standards" relate to ESLint? ESLint is a software development t
 
 ESLint allows developers to improve their programming habits because it provides immediate feedback. Instead of discovering mistakes after running a program, ESLint can help catch problems before they become larger issues. Over time, developers become more aware of common mistakes and begin writing cleaner code naturally. In this way, ESLint is not just a tool for fixing errors; it is also a learning tool that helps developers understand better programming practices.
 
-## My Experience with ESLint 
+## My Experience with ESLint
 
 After downloading VSCode, installing ESLint is almost always one of the first extensions that new software developers use, including me. Because of this, I can see how a tool like ESLint can easily be taken for granted. It is difficult to imagine working on projects without a developer tool that helps identify problems and improve code quality.
 
