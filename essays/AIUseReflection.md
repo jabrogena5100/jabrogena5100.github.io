@@ -20,61 +20,59 @@ In ICS 314, I mainly used ChatGPT as my main AI tool. I used it as a personalize
 
 ## II. Personal Experience with AI:
 
-// Examples of using AI
-
-1. Experience quizzes e.g. E18
+1. **Experience quizzes**
 
 In E18, I used it to help me look up the functions that I should use because the ones shown on the websites and videos were outdated. For example _.each(arr,fn) translates to arr.forEach(fn) in native JavaScript/TypeScript and _.reduce(arr,fn, initial) translates to arr.reduce(fn, initial).
 
-2. Practice quizzes
+1. **Practice quizzes**
 
 In E34 and E35, I used it to help me download bootstrap and to help me look up syntax instead going back and forth between VS Code and the Bootstrap documentation.
 
-3. Quizzes
+1. **Quizzes**
 
 In Quiz Number 3: Mauna Loa Cities, I used AI summarize the given instructions. Then I used it to help me structure the given data into a readable format.
 
-4. Essays
+1. **Essays**
 
 In all of my essays, I used AI mainly to help me correct my grammar after I have written everything out myself. This could be from spelling mistakes, tense inconsistencies, and parallelity errors.
 
-5. Final project
+1. **Final project**
 
 For the final project, I used it to help me make CRUD functions, identity which files should I make "client" or "server", and implement clever styling using react-bootstrap.
 
-6. Learning a concept / tutorial
+1. **Learning a concept / tutorial**
 
 The concept that I had trouble with was about async functions because we didn't really go over them in class. So when I asked how these functions worked, I learned what an event-listener is, timeouts, and the difference between blocking and non-blocking.
 
-7. Answering a question in class or in Discord
+1. **Answering a question in class or in Discord**
 
 If I remember correctly, someone was having a problem with installation issues and because I didn't have that problem, I wouldn't find any useful results if I tried asking AI.
 
-8. Asking or answering a smart-question
+1. **Asking or answering a smart-question**
 
 I didn't ask a smart question. The only smart-question that I answered was when someone asked for help with an npm command and I responded with they're probably in the wrong directory. Even then I didn't use AI.
 
-9. Coding example
+1. **Coding example**
 
 I used it to explain the use cases of .reduce, .filter, and .map because they were the most important ones in the functional programming experiences.
 
-10. Explaining code
+1. **Explaining code**
 
 One time I used AI to explain code was with async functions. It explained how it's used for querying database, sending API requests, and loading data into the frontend.
 
-11. Writing code
+1. **Writing code**
 
 I used AI to create the skeleton code for quizzes and my final project. I also used it to make code look better than what I've written and also get help with fixing installation problems.
 
-12. Documenting code
+1. **Documenting code**
 
 I used AI to help me with the GitHub Pages homepage for my final project in rewording what I've already written and add more stuff that I've missed.
 
-13. Quality assurance
+1. **Quality assurance**
 
 One issue that I had with ESLint error was with Card.Body. AI suggested that I redownload React-Bootstrap and reinstall my packages through package.json, but the error is still there so this is one of the cases that AI didn't solve the problem.
 
-14. Other uses in ICS 314 not listed
+1. **Other uses in ICS 314 not listed**
 
 One thing that's not listed is explaining the instructions of the several experiences. I found that using AI means it breaks the steps that you need to do in a more compact format.
 
