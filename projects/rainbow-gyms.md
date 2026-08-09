@@ -13,8 +13,6 @@ labels:
 summary: "UH gym session booking app for UH Mānoa Students"
 ---
 
-# Rainbow Gyms App
-
 ## Project Overview
 
 Rainbow-Gyms is a fitness application designed for UH Mānoa Computer Science and Computer Engineering students. The goal of the application is to help students stay active while managing schoolwork and their personal lives. Many students spend long hours working on computers and may struggle to find time or motivation to go to the gym. Rainbow-Gyms helps solve this problem by making it easier to find workouts and workout partners.
@@ -37,19 +35,27 @@ Another thing I learned was the importance of designing an application around it
 
 ### Landing Page
 
-<img width="500px" class="rounded float-start pe-4" src="../img/LandingPage-Rainbow-Gyms.png">
+<p align="center">
+  <img src="../img/LandingPage-Rainbow-Gyms.png" alt="Rainbow-Gyms Landing Page" width="500px">
+</p>
 
 ### Browse Sessions Page
 
-<img width="500px" class="rounded float-start pe-4" src="../img/Browse-Rainbow-Gyms.png">
+<p align="center">
+  <img src="../img/Browse-Rainbow-Gyms.png" alt="Rainbow-Gyms Landing Page" width="500px">
+</p>
 
 ### Create Sessions Page
 
-<img width="500px" class="rounded float-start pe-4" src="../img/CreateSession-Rainbow-Gyms.png">
+<p align="center">
+  <img src="./img/CreateSession-Rainbow-Gyms.png" alt="Rainbow-Gyms Landing Page" width="500px">
+</p>
 
 ### My Sessions Page
 
-<img width="500px" class="rounded float-start pe-4" src="../img/MySessions-Rainbow-Gyms.png">
+<p align="center">
+  <img src="../img/MySessions-Rainbow-Gyms.png" alt="Rainbow-Gyms Landing Page" width="500px">
+</p>
 
 ## GitHub
 
