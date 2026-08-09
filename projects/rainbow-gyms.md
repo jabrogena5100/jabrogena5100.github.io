@@ -42,19 +42,19 @@ Another thing I learned was the importance of designing an application around it
 ### Browse Sessions Page
 
 <p align="center">
-  <img src="../img/Browse-Rainbow-Gyms.png" alt="Rainbow-Gyms Landing Page" width="500px">
+  <img src="../img/Browse-Rainbow-Gyms.png" alt="Rainbow-Gyms Browse Sessions Page" width="500px">
 </p>
 
 ### Create Sessions Page
 
 <p align="center">
-  <img src="./img/CreateSession-Rainbow-Gyms.png" alt="Rainbow-Gyms Landing Page" width="500px">
+  <img src="../img/CreateSession-Rainbow-Gyms.png" alt="Rainbow-Gyms Create Session Page" width="500px">
 </p>
 
 ### My Sessions Page
 
 <p align="center">
-  <img src="../img/MySessions-Rainbow-Gyms.png" alt="Rainbow-Gyms Landing Page" width="500px">
+  <img src="../img/MySessions-Rainbow-Gyms.png" alt="Rainbow-Gyms My Sessions Page" width="500px">
 </p>
 
 ## GitHub
